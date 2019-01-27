@@ -10,7 +10,7 @@ namespace Coffee.UIExtensions
 	/// Abstract effect base for UI.
 	/// </summary>
 	[RequireComponent(typeof(Graphic))]
-	[DisallowMultipleComponent]
+	// [DisallowMultipleComponent]
 	public abstract class UIEffectBase : BaseMeshEffect, IParameterTexture
 #if UNITY_EDITOR
 	, ISerializationCallbackReceiver

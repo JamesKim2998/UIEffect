@@ -17,7 +17,7 @@ namespace Coffee.UIExtensions
 	/// </summary>
 	[ExecuteInEditMode]
 	[RequireComponent(typeof(Graphic))]
-	[DisallowMultipleComponent]
+	// [DisallowMultipleComponent]
 	[AddComponentMenu("UI/UIEffect/UIEffect", 1)]
 	public class UIEffect : UIEffectBase
 	{
