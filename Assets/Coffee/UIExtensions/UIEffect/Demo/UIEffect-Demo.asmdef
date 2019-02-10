@@ -1,0 +1,9 @@
+{
+    "name": "UIEffect-Demo",
+    "references": [
+        "UIEffect"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

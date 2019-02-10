@@ -1,0 +1,9 @@
+{
+    "name": "UIEffect-Editor",
+    "references": [
+        "UIEffect"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
