@@ -1,0 +1,9 @@
+{
+    "name": "UIEffect-Editor",
+    "references": [
+        "UIEffect"
+    ],
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ]
+}
